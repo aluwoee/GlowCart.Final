@@ -15,10 +15,6 @@ GlowCart is a cosmetics e-commerce marketplace app made for the Flutter final pr
 - Loading and error states
 - README documentation
 
-## Important note
-
-Firebase / Firestore is not included because it was requested not to add Firebase. Order history is saved locally using Drift instead.
-
 ## Setup
 
 Run these commands after opening the project folder:
